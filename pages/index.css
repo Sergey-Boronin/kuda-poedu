@@ -6,6 +6,9 @@
 @import url("../blocks/card/__heading/card__heading.css");
 @import url("../blocks/card/__main-text/card__main-text.css");
 @import url("../blocks/card/__paragraph/card__paragraph.css");
+@import url("../blocks/timetable/timetable.css");
+@import url("../blocks/timetable/__form/timetable__form.css");
+
 
 
 
