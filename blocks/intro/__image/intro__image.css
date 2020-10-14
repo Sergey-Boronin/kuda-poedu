@@ -1,0 +1,4 @@
+.intro__image {
+  background-image: url("../../../images/intro-image.jpeg");
+  object-fit: cover;
+}
