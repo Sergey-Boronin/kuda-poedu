@@ -1,0 +1,8 @@
+.video__link {
+  display: block;
+  background-image: url("../../../images/video.jpg");
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  min-height: 540px;
+}
