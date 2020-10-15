@@ -7,7 +7,15 @@
 @import url("../blocks/card/__main-text/card__main-text.css");
 @import url("../blocks/card/__paragraph/card__paragraph.css");
 @import url("../blocks/timetable/timetable.css");
+@import url("../blocks/timetable/__content/timetable__content.css");
 @import url("../blocks/timetable/__form/timetable__form.css");
+@import url("../blocks/timetable/__heading/timetable__heading.css");
+@import url("../blocks/form-inputs/form-inputs.css");
+@import url("../blocks/timetable/__where/timetable__where.css");
+@import url("../blocks/timetable/__why/timetable__why.css");
+@import url("../blocks/timetable/__button/timetable__button.css");
+@import url("../blocks/timetable/__image/timetable__image.css");
+
 
 
 
