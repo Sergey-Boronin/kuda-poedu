@@ -29,4 +29,7 @@
 @import url("../blocks/timetable/__why/timetable__why.css");
 @import url("../blocks/timetable/__button/timetable__button.css");
 @import url("../blocks/timetable/__image/timetable__image.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copy/footer__copy.css");
+
 
