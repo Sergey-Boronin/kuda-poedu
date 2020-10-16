@@ -7,3 +7,10 @@
   margin: 0;
   color: black;
 }
+
+@media screen and (max-width: 425px) {
+  .eader__links  {
+    width: 100%
+
+  }
+}
