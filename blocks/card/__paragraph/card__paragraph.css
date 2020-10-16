@@ -1,5 +1,6 @@
 .card__paragraph {
   margin: 0 0 26px 0;
+  font-size: 12px;
 }
 
 .card__paragraph:last-of-type {
