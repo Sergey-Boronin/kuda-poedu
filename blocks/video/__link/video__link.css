@@ -1,0 +1,8 @@
+.video__link {
+  display: flex;
+  background-image: url("../../../images/video.jpg");
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  height: 540px;
+}

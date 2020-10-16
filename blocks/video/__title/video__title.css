@@ -1,0 +1,8 @@
+.video__title {
+  color: white;
+  position: absolute;
+  top: 70px;
+  left: 100px;
+  font-size: 29px;
+  font-weight: 700;
+}

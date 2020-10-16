@@ -1,0 +1,9 @@
+.timetable__button {
+  width: 158px;
+  height: 28px;
+  background-color: #000;
+  color: #fff;
+  font-size: 12px;
+  align-self: flex-end;
+  font-size: 11px;
+}
