@@ -1,8 +1,8 @@
 .video__title {
   color: white;
   position: absolute;
-  top: 70px;
   left: 100px;
+  top: 70px;
 }
 
 @media screen and (max-width: 555px) {
