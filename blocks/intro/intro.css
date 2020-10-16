@@ -6,3 +6,12 @@
   align-items: center;
   padding-bottom: 112px;
 }
+
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding-bottom: 40px;
+    width: calc(100% - 25px * 2);
+    margin-top: 30px;
+  }
+}
