@@ -4,3 +4,10 @@
   top: 70px;
   left: 100px;
 }
+
+@media screen and (max-width: 555px) {
+  .video__title {
+    top: 10%;
+    left: 10%;
+  }
+}
