@@ -1,4 +1,6 @@
 .quotes__author {
   margin: 0;
   text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 700;
 }
