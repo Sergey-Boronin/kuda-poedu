@@ -4,3 +4,15 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 800px) {
+  .card__container{
+    margin: 10px 10px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .card__container{
+    justify-content: start;
+  }
+}

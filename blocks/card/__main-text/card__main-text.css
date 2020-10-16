@@ -1,3 +1,6 @@
 .card__main-text {
-  width: 328px;
+  max-width: 328px;
 }
+
+
+
