@@ -6,3 +6,10 @@
 .card__paragraph:last-of-type {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 425px) {
+  .card__paragraph{
+    margin-bottom: 10px;
+    font-size: 11px;
+  }
+}

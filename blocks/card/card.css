@@ -4,3 +4,10 @@
   grid-template-rows: 462px;
   background-color: #f2f2f2;
 }
+
+@media screen and (max-width: 800px) {
+  .card{
+    grid-template-rows: 40vh;
+  }
+}
+
