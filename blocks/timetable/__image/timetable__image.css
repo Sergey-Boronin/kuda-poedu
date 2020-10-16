@@ -3,3 +3,10 @@
   height: 100%;
   object-fit: cover;
 }
+
+@media screen and (max-width: 768px) {
+  .timetable__image {
+    height: 20vh;
+    padding-bottom: 20px;
+  }
+}

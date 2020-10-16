@@ -7,3 +7,10 @@
   align-self: flex-end;
   font-size: 11px;
 }
+
+@media screen and (max-width: 768px) {
+  .timetable__button {
+    width: 302px;
+    margin-bottom: 10px;
+  }
+}

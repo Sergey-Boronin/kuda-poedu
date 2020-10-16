@@ -5,5 +5,10 @@
   justify-content: space-between;
   align-self: center;
   margin: 100px auto 0;
+}
 
+@media screen and (max-width: 800px) {
+  .quotes__container {
+    max-width: 400px;
+  }
 }
