@@ -3,3 +3,9 @@
   flex-direction: column;
   margin-left: 60px;
 }
+
+@media screen and (max-width: 768px) {
+  .timetable__content {
+    margin: 0 auto
+  }
+}

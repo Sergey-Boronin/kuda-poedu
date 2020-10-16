@@ -3,3 +3,9 @@
   font-size: 29px;
   font-weight: 700;
 }
+
+@media screen and (max-width: 768px) {
+  .timetable__heading {
+    margin: 40px 0 20px;
+  }
+}
